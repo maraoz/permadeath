@@ -1,0 +1,20 @@
+
+.landing {
+    /*line-height: 100vh;*/
+    text-align: center;
+    position: relative;
+    font-family: Arial Black, sans-serif;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.logo img {
+    width: 10rem;
+}
